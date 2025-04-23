@@ -1,0 +1,63 @@
+_repo: The-sacred-theory-of-the-Earth-Volume-1-b-Containing-an-account-of-the-original-of-the-Earth-__75644
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burnet, Thomas
+    aliases:
+    - Burnett, Thomas
+    - Burnet, Dr. (Thomas)
+    - Burnetius, T. (Thomas)
+    deathdate: 1715
+    gutenberg_agent_id: '58080'
+    url: http://www.gutenberg.org/2009/agents/58080
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Burnet_(theologian)
+description: 'Reading ease score: 42.9 (College-level). Difficult to read.
+
+  Translation of first part of: Telluris theoria sacra.'
+gutenberg_bookshelf:
+- 'Browsing: History - Ancient'
+- 'Browsing: Science - Earth/Agricultural/Farming'
+gutenberg_issued: '2025-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75644'
+language: en
+pgterms:marc904: http://archive.org/details/sacredtheoryofe01burn
+pgterms:marc905: 20240514115014burnet
+pgterms:marc906: '1726'
+pgterms:marc907: GB
+production_note: Paul Murray, David King, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net. (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica) at http://gallica.bnf.fr)
+publication_note: '  $aLondon :$bJ. Hooke, $c1726.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cosmology -- Early works to 1800'
+- !lcsh 'Warren, Erasmus, 1642?-1718. Geologia'
+- !lcsh 'Keill, John, 1671-1721. Examination of Dr. Burnet''s theory of the earth'
+- !lcsh 'Creation -- Early works to 1800'
+- !lcsh 'Philosophy, Ancient -- Early works to 1800'
+- !lcsh 'Earth (Planet) -- Early works to 1800'
+- !lcc 'BL'
+- GITenberg
+summary: '"The Sacred Theory of the Earth" by Thomas Burnet is a scientific exploration
+  written in the early 18th century. This text delves into the origins of the Earth,
+  examining major geological events, including the Deluge, and outlines the processes
+  that have shaped the planet over time. The work is structured into two volumes,
+  where the first focuses on past geological changes, particularly the stories of
+  Paradise and the Deluge, while hinting at future transformations, including the
+  eventual conflagration and new heavens.  The opening of the narrative introduces
+  the author''s ambitious goal to investigate both the origin and the significant
+  alterations the Earth has undergone. Burnet emphasizes the necessity of understanding
+  these elements to grasp the divine providence governing nature and humanity''s place
+  within it. He asserts that existing philosophies fall short of adequately explaining
+  the Universal Deluge, prompting a re-evaluation of the commonly accepted accounts.
+  This exploration promises to challenge prevailing notions and encourage a deeper
+  consideration of geological and scriptural interpretations. (This is an automatically
+  generated summary.)'
+title: 'The sacred theory of the Earth, Volume 1 : $b Containing an account of the
+  original of the Earth, and of all the general changes which it hath already undergone,
+  or is to undergo, till the consummation of all things.'
+url: http://www.gutenberg.org/ebooks/75644
