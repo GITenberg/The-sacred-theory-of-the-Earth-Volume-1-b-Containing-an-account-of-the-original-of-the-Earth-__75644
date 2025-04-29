@@ -1,5 +1,8 @@
 _repo: The-sacred-theory-of-the-Earth-Volume-1-b-Containing-an-account-of-the-original-of-the-Earth-__75644
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75644-h/images/cover.jpg
 creator:
   author:
     agent_name: Burnet, Thomas
@@ -14,6 +17,8 @@ creator:
 description: 'Reading ease score: 42.9 (College-level). Difficult to read.
 
   Translation of first part of: Telluris theoria sacra.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75644#The-sacred-theory-of-the-Earth-Volume-1-b-Containing-an-account-of-the-original-of-the-Earth-_
 gutenberg_bookshelf:
 - 'Browsing: History - Ancient'
 - 'Browsing: Science - Earth/Agricultural/Farming'
